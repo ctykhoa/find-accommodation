@@ -1,0 +1,46 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "Backend course project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@google/maps": "0.5.5",
+    "@hapi/boom": "7.4.2",
+    "@hapi/joi": "15.1.0",
+    "bcrypt": "3.0.6",
+    "body-parser": "1.19.0",
+    "cheerio": "1.0.0-rc.3",
+    "crawler": "1.2.1",
+    "dotenv": "8.0.0",
+    "express": "4.17.1",
+    "fs": "0.0.1-security",
+    "is-image": "3.0.0",
+    "joi-objectid": "2.0.0",
+    "jsonwebtoken": "8.5.1",
+    "mocha": "6.2.0",
+    "mongoose": "5.6.3",
+    "morgan": "^1.9.1",
+    "multer": "1.4.1",
+    "nodemailer": "6.3.0",
+    "nodemon": "1.19.1",
+    "path": "0.12.7",
+    "randomstring": "1.1.5",
+    "strict-uri-encode": "2.0.0",
+    "url-join": "4.0.1"
+  },
+  "scripts": {
+    "start": "nodemon app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/khoayen/find-student-accomodation---truong---khoa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/khoayen/find-student-accomodation---truong---khoa/issues"
+  },
+  "homepage": "https://gitlab.com/khoayen/find-student-accomodation---truong---khoa#README"
+}
